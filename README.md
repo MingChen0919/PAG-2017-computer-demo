@@ -17,3 +17,8 @@
 * **Regular expression search**: wrapping keywords with forward slash (`/`). Examples:
 
   + `/transcriptom[a-z]+/` -> `transcriptome`, `transcriptomes`, `transcriptomics` ...
+
+* **Boolean operators**: `+` and `-`. `+` means must present; `-` means must not present. Examples:
+
+  + `+"green ash" +transcriptome -genome`
+  + `+"green ash" -transcriptome +genome`
