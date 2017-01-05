@@ -22,3 +22,7 @@
 
   + `+"green ash" +transcriptome -genome`
   + `+"green ash" -transcriptome +genome`
+
+* **`AND`, `OR`, `NOT` operator and combination search**. Examples:
+
+  + `"heat stress" AND ("Castanea mollissima" OR "green ash") NOT "heat shock"`
