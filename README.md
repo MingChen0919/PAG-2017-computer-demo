@@ -14,3 +14,6 @@
   + `genom* sequence` -> `genome`, `genomic`, `genomics` ...
   + `Lir*dron tulipifera` -> `Liriodendron tulipifera`
 
+* **Regular expression search**: wrapping keywords with forward slash (`/`). Examples:
+
+  + `/(green)|(white) ash/` -> `green ash` OR `white ash`
