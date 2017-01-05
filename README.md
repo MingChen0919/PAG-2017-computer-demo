@@ -16,4 +16,4 @@
 
 * **Regular expression search**: wrapping keywords with forward slash (`/`). Examples:
 
-  + `/(green)|(white) ash/` -> `green ash` OR `white ash`
+  + `/transcriptom[a-z]+/` -> `transcriptome`, `transcriptomes`, `transcriptomics` ...
