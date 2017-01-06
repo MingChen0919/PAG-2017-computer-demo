@@ -26,3 +26,35 @@
 * **`AND`, `OR`, `NOT` operator and combination search**. Examples:
 
   + `"heat stress" AND ("Castanea mollissima" OR "green ash") NOT "heat shock"`
+
+
+
+
+## Tripal Expression Analysis
+
+### Expression comparison between `heat shock` vs `NOT "heat shock"` genes
+* `heat shock` genes
+
+```
+Fraxinus_pennsylvanica_120313_comp18083_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp15550_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp13944_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp64929_c0_seq2,
+Fraxinus_pennsylvanica_120313_comp52334_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp56548_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp56481_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp56481_c0_seq2
+```
+
+* `not heat shock` genes
+
+```
+Fraxinus_pennsylvanica_120313_comp138340_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp13845_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp13841_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp13845_c0_seq2,
+Fraxinus_pennsylvanica_120313_comp1384_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp138541_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp138804_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp138820_c0_seq1
+```
