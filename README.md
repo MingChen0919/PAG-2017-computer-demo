@@ -59,9 +59,9 @@ Implementation examples in the HGD
 ### Data collection
 * Example: [http://www.hardwoodgenomics.org/feature/Fraxinus_pennsylvanica_120313_comp61194_c0_seq5](http://www.hardwoodgenomics.org/feature/Fraxinus_pennsylvanica_120313_comp61194_c0_seq5)
 
-  + Expression data analysis information: click **Analyses**->**Green Ash Ozone Treatments** to go to the analysis content page
-  + Biomaterials information: click **Expression**->**Any bar of the figure** to go to the biomaterial content page
-  + Expression values: see the figure.
+  + **Expression data analysis information**: click **Analyses**->**Green Ash Ozone Treatments** to go to the analysis content page
+  + **Biomaterials information**: click **Expression**->**Any bar of the figure** to go to the biomaterial content page
+  + **Expression values**: see the figure.
 
 
 ### Expression comparison between `heat shock` vs `kinase` genes from green ash.
