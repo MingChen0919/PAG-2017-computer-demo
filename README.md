@@ -1,5 +1,9 @@
 # PAG 2017 computer demo
 
+* [HGD Database Navigation](#hgd-database-navigation)
+* [Tripal Elasticsearch](#tripal-elasticsearch)
+* [Tripal Expression Analysis](#tripal-expression-analysis)
+
 ## HGD Database Navigation
 ### Genetic resources
 
