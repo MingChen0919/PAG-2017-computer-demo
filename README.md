@@ -55,7 +55,7 @@ Implementation examples in the HGD
 
 ## Tripal Expression Analysis
 
-### Expression comparison between `heat shock` vs `NOT "heat shock"` genes from green ash.
+### Expression comparison between `heat shock` vs `kinase` genes from green ash.
 
 **Heat shock induced gene expression can help limit the damage caused by stress**(Arya, et al., 2007).
 
