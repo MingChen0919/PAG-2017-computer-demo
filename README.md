@@ -30,10 +30,16 @@
 
 ### Database table specific search
 
-The Tripal Elasticsearch module allows you to index single tables and build search interface for them. All the advanced search methods that are available for site wide search can be applied to table specific search. 
+The Tripal Elasticsearch module allows you to index single tables and build search interface for them. All the advanced search methods that are available to the site wide search can be applied to table specific search. 
 
-Implementation in the HGD
-* (**transcripts search**)
+Implementation examples in the HGD
+
+* **transcripts search** (A couple of examples):
+  1 search keywords: Abbreviation: `Fraxinus pennsylvanica`; Unique name: ` `; Hit Description: `"heat shock"`
+  2 search keywords: Abbreviation: `Fraxinus pennsylvanica`; Unique name: ` `; Hit Description: `"heat shock" NOT "Arabidopsis thaliana"`
+* **Organisms**
+
+  
 
 
 
