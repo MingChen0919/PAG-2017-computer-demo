@@ -1,5 +1,7 @@
 # PAG 2017 computer demo
 
+## HGD database navigation
+
 ## Tripal Elasticsearch
 
 ### Site wide search (Advanced search)
