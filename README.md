@@ -1,6 +1,6 @@
 # PAG 2017 computer demo
 
-## HGD database navigation
+## HGD Database Navigation
 
 ## Tripal Elasticsearch
 
