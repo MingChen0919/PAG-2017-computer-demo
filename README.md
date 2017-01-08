@@ -150,3 +150,5 @@ Fraxinus_pennsylvanica_120313_comp48376_c0_seq2,
 Fraxinus_pennsylvanica_120313_comp40803_c0_seq1,
 Fraxinus_pennsylvanica_120313_comp31272_c0_seq1
 ```
+
+* Go to **Expression Visualization** interface to generate the heatmap.
