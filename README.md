@@ -36,28 +36,28 @@
 
 **Heat shock induced gene expression can help limit the damage caused by stress**(Arya, et al., 2007).
 
-* `heat shock` genes
+* Search keywords: `"heat shock"` genes
 
 ```
-Fraxinus_pennsylvanica_120313_comp18083_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp15550_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp13944_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp64929_c0_seq2,
-Fraxinus_pennsylvanica_120313_comp52334_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp56548_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp56481_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp56481_c0_seq2
+Fraxinus_pennsylvanica_120313_comp59663_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp59663_c0_seq2,
+Fraxinus_pennsylvanica_120313_comp56723_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp60325_c0_seq16,
+Fraxinus_pennsylvanica_120313_comp61194_c0_seq4,
+Fraxinus_pennsylvanica_120313_comp61194_c0_seq5,
+Fraxinus_pennsylvanica_120313_comp61194_c0_seq8,
+Fraxinus_pennsylvanica_120313_comp61194_c0_seq6,
 ```
 
-* `not heat shock` genes
+* Search keywords: `+kinase -heat` genes
 
 ```
-Fraxinus_pennsylvanica_120313_comp138340_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp13845_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp13841_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp13845_c0_seq2,
-Fraxinus_pennsylvanica_120313_comp1384_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp138541_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp138804_c0_seq1,
-Fraxinus_pennsylvanica_120313_comp138820_c0_seq1
+Fraxinus_pennsylvanica_120313_comp59251_c0_seq8,
+Fraxinus_pennsylvanica_120313_comp31358_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp63273_c0_seq25,
+Fraxinus_pennsylvanica_120313_comp63273_c0_seq3,
+Fraxinus_pennsylvanica_120313_comp48376_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp48376_c0_seq2,
+Fraxinus_pennsylvanica_120313_comp40803_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp31272_c0_seq1
 ```
