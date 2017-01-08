@@ -31,6 +31,7 @@
 * JBrowse/Webapollo (**Tools**->**JBrowse/WebApollo - Chestnut Genome Sequence**)
 * SyMap (**Tools**->**Chinese Chestnut SyMAP**)
 * Blast
+* Expression Visualization
 
 ## Tripal Elasticsearch
 
