@@ -121,6 +121,10 @@ Fraxinus_pennsylvanica_120313_comp56092_c0_seq1
 
 **Heat shock induced gene expression can help limit the damage caused by stress**(Arya, et al., 2007).
 
+* Go to transcripts search interface (click **Transcripts search**)
+    + Search `"heat shock"` for **Hit Description** and select `Fraxinus pennsylvanica` for **Abbreviation**, and download the search results.
+    +  Search `kinase NOT heat` for **Hit Description** and select `Fraxinus pennsylvanica` for **Abbreviation**, and download the search results.
+
 * Search keywords: `"heat shock"` genes([heat-shock-genes.txt](heat-shock-genes.txt))
 
 ```
