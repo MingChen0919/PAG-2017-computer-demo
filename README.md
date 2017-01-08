@@ -61,7 +61,7 @@ Implementation examples in the HGD
 
   + **Expression data analysis information**: click **Analyses**->**Green Ash Ozone Treatments** to go to the analysis content page
   + **Biomaterials information**: click **Expression**->**Any bar of the figure** to go to the biomaterial content page
-  + **Expression values**: see the figure.
+  + **Expression values**: see the figure(sort, tile/chart).
 
 
 ### Expression comparison between `heat shock` vs `kinase` genes from green ash.
