@@ -117,7 +117,7 @@ Fraxinus_pennsylvanica_120313_comp56092_c0_seq1
 ```
 
 
-### Expression comparison between `heat shock` vs `kinase` genes from green ash.
+### A use case: expression comparison between `heat shock` vs `kinase` genes from green ash.
 
 **Heat shock induced gene expression can help limit the damage caused by stress**(Arya, et al., 2007).
 
