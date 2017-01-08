@@ -47,8 +47,8 @@ Implementation examples in the HGD
     + Hit Description: `"heat shock" NOT "Arabidopsis thaliana"`
 
 * **Organisms**
-
-  
+* Search with no keywords input will return all available records
+* Search results downloadable as csv file.
 
 
 
