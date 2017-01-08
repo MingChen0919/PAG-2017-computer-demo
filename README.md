@@ -49,7 +49,7 @@ Fraxinus_pennsylvanica_120313_comp61194_c0_seq8,
 Fraxinus_pennsylvanica_120313_comp61194_c0_seq6,
 ```
 
-* Search keywords: `+kinase -heat` genes
+* Search keywords: `+kinase -heat` genes([kinase-not-heat-genes.txt](kinase-not-heat-genes.txt))
 
 ```
 Fraxinus_pennsylvanica_120313_comp59251_c0_seq8,
