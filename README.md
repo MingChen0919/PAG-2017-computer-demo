@@ -21,6 +21,12 @@
     + Brief introduction to a species
     + Links to all genetic resources that are associated with this species.
 
+### Tools
+
+* Cmap (**Tools**->**Cmap**)
+* JBrowse/Webapollo (**Tools**->**JBrowse/WebApollo - Chestnut Genome Sequence**)
+* SyMap (**Tools**->**Chinese Chestnut SyMAP**)
+* Blast
 
 ## Tripal Elasticsearch
 
