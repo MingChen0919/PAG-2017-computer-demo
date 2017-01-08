@@ -13,7 +13,9 @@
     + predicted transcriptomic SSRs (15 species)
     + predicted genomic SSRs (10 species)
     + confirmed SSRs markers (8 species)
-  
+* Reference genome
+    + Chinese Chestnut Genome and QTL Sequences v1.0 (click **Genomic Data**->**Chestnut Genome**)
+    + Chestnut Physical Map (click **Genomic Data**->**Chestnut Physical Map**)
 
 
 ## Tripal Elasticsearch
