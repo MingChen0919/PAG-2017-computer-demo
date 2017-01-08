@@ -96,6 +96,26 @@ Implementation examples in the HGD
   + **Biomaterials information**: click **Expression**->**Any bar of the figure** to go to the biomaterial content page
   + **Expression values**: see the figure(sort, tile/chart).
 
+### Genes Expression Visualization
+
+  * Go to the **Expression Visualization** interface
+  * Provide a list of genes separated by comma(`,`)
+  * Click `Display Expression Heatmap` button to generate the heatmap.
+  * Some example genes:
+  
+```
+Fraxinus_pennsylvanica_120313_comp18083_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp15550_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp13944_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp64929_c0_seq2,
+Fraxinus_pennsylvanica_120313_comp52334_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp56548_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp56481_c0_seq1,
+Fraxinus_pennsylvanica_120313_comp56481_c0_seq2,
+Fraxinus_pennsylvanica_120313_comp56481_c0_seq3,
+Fraxinus_pennsylvanica_120313_comp56092_c0_seq1
+```
+
 
 ### Expression comparison between `heat shock` vs `kinase` genes from green ash.
 
