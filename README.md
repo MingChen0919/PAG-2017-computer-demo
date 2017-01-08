@@ -1,6 +1,20 @@
 # PAG 2017 computer demo
 
 ## HGD Database Navigation
+### Genetic resources
+
+* transcriptomes from 15 species (click **Genomic Data**->**Transcriptomes**->**Fraxinus pennsylvanica 120313**)
+    + transcriptome analysis information
+    + assembly reports
+    + annotation data downloadable
+    + raw reads links to NCBI SRA
+
+* SSR ([http://www.hardwoodgenomics.org/organism/Fraxinus/pennsylvanica](http://www.hardwoodgenomics.org/organism/Fraxinus/pennsylvanica))
+    + predicted transcriptomic SSRs (15 species)
+    + predicted genomic SSRs (10 species)
+    + confirmed SSRs markers (8 species)
+  
+
 
 ## Tripal Elasticsearch
 
