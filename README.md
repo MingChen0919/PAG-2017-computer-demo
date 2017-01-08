@@ -35,8 +35,10 @@ The Tripal Elasticsearch module allows you to index single tables and build sear
 Implementation examples in the HGD
 
 * **transcripts search** (A couple of examples):
+
   1 search keywords: Abbreviation: `Fraxinus pennsylvanica`; Unique name: ` `; Hit Description: `"heat shock"`
   2 search keywords: Abbreviation: `Fraxinus pennsylvanica`; Unique name: ` `; Hit Description: `"heat shock" NOT "Arabidopsis thaliana"`
+
 * **Organisms**
 
   
