@@ -16,6 +16,10 @@
 * Reference genome
     + Chinese Chestnut Genome and QTL Sequences v1.0 (click **Genomic Data**->**Chestnut Genome**)
     + Chestnut Physical Map (click **Genomic Data**->**Chestnut Physical Map**)
+    
+* Organism page (Click **Trees**->**Fraxinus pennsylvanica**: [http://www.hardwoodgenomics.org/organism/Fraxinus/pennsylvanica](http://www.hardwoodgenomics.org/organism/Fraxinus/pennsylvanica))
+    + Brief introduction to a species
+    + Links to all genetic resources that are associated with this species.
 
 
 ## Tripal Elasticsearch
