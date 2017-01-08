@@ -28,6 +28,13 @@
   + `"heat stress" AND ("Castanea mollissima" OR "green ash") NOT "heat shock"`
 
 
+### Database table specific search
+
+The Tripal Elasticsearch module allows you to index single tables and build search interface for them. All the advanced search methods that are available for site wide search can be applied to table specific search. 
+
+Implementation in the HGD
+* (**transcripts search**)
+
 
 
 ## Tripal Expression Analysis
