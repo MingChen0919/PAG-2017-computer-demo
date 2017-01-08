@@ -36,7 +36,7 @@
 
 **Heat shock induced gene expression can help limit the damage caused by stress**(Arya, et al., 2007).
 
-* Search keywords: `"heat shock"` genes
+* Search keywords: `"heat shock"` genes([heat-shock-genes.txt](heat-shock-genes.txt))
 
 ```
 Fraxinus_pennsylvanica_120313_comp59663_c0_seq1,
