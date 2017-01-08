@@ -49,6 +49,7 @@ Implementation examples in the HGD
 * **Organisms**
 * Search with no keywords input will return all available records
 * Search results downloadable as csv file.
+* Search interfaces and results are displayed with separated drupal blocks.
 
 
 
