@@ -36,8 +36,8 @@ Implementation examples in the HGD
 
 * **transcripts search** (A couple of examples):
 
-  1 search keywords: Abbreviation: `Fraxinus pennsylvanica`; Unique name: ` `; Hit Description: `"heat shock"`
-  2 search keywords: Abbreviation: `Fraxinus pennsylvanica`; Unique name: ` `; Hit Description: `"heat shock" NOT "Arabidopsis thaliana"`
+  1. search keywords: Abbreviation: `Fraxinus pennsylvanica`; Unique name: ` `; Hit Description: `"heat shock"`
+  2. search keywords: Abbreviation: `Fraxinus pennsylvanica`; Unique name: ` `; Hit Description: `"heat shock" NOT "Arabidopsis thaliana"`
 
 * **Organisms**
 
