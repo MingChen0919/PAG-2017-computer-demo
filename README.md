@@ -13,7 +13,7 @@
     + annotation data downloadable
     + raw reads links to NCBI SRA
 
-* SSRs ([http://www.hardwoodgenomics.org/organism/Fraxinus/pennsylvanica](http://www.hardwoodgenomics.org/organism/Fraxinus/pennsylvanica))
+* SSRs ([http://www.hardwoodgenomics.org/content/gssrs](http://www.hardwoodgenomics.org/content/gssrs))
     + predicted transcriptomic SSRs (15 species)
     + predicted genomic SSRs (10 species)
     + confirmed SSRs markers (8 species)
